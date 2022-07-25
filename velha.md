@@ -1,15 +1,15 @@
-#DescriÁ„o do seu projeto;
+#Descri√ß√£o do seu projeto;
  Jogo da Velha
 #Funcionalidades;
 
-#Como os usu·rios podem utiliz·-lo;
-informe a linha e a coluna e clique em marcar,o jogo vai informar qual o jogador vai realizar a jogada, n„o È possivel realizar
+#Como os usu√°rios podem utiliz√°-lo;
+informe a linha e a coluna e clique em marcar,o jogo vai informar qual o jogador vai realizar a jogada, n√£o √© possivel realizar
 
 #Autores do projeto
-Fl·via 
+Fl√°via 
 
 Status do Projeto;
-Em produÁ„o
+Em produ√ß√£o
 
 #Tecnologias utilizadas;
-HTML,CSS E JAVASCRIPT
+PHP
